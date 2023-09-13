@@ -1,4 +1,4 @@
-# Fale como Jacquin
+# Fale como Jacquin [DEPRECATED]
 
 Est é um bela homenagi ao noss querid Chef Errick Jacquin.
 
